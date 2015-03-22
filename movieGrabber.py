@@ -2,7 +2,6 @@ __author__ = 'GLXJBG0'
 import urllib.request
 import urllib.parse
 import json
-# example url http://nzbs.org/api?apikey=03afdd144efe61abca5275bab593720f&t=search&cat=2000&q=yellow
 api_key = ''
 sab_apikey = ''
 
